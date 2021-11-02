@@ -5,7 +5,8 @@
 
 int main()
 {
-    std::cout << "„Pozdrav iz aplikacije od Luke Sarcevica i JMBG: 123564648946\n";
+    std::cout << "„Pozdrav iz aplikacije od Luke Sarcevica\n";
+>>>>>>> df9c8fc (Commiting RUAP-Projekt after changing the name)
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
